@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:background="@drawable/toolbarstyle"
+    >
+  <TextView
+      android:id="@+id/title_bar_text"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center_vertical"
+      android:textSize="20.5sp"
+      android:textColor="#ffffff"
+      android:text="Club Soda"
+      />
+
+  <Button
+      android:id="@+id/post_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:background="@color/Cyan"
+      style="@style/Widget.AppCompat.Button.Borderless"
+      android:layout_gravity="right"/>
+</android.support.v7.widget.Toolbar>

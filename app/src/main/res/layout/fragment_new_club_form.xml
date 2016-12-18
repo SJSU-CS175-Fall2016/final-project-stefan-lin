@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="@color/mainBG"
+              android:paddingLeft="20dp"
+              android:paddingRight="20dp"
+             tools:context="com.stefan.jeremy.clubsoda.createClub.newClubFormFragment">
+
+
+
+    <EditText
+      android:id="@+id/clubCreate_clubName"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="@string/clubname_clubcreate"
+      android:padding="18dp"
+      android:background="@drawable/edittextstyle1"
+      android:textColorHint="#949494"
+      android:textColor="#FFFFFF"
+    />
+    <EditText
+      android:id="@+id/clubCreate_clubSchool"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="@string/clubschool_clubcreate"
+      android:padding="18dp"
+      android:layout_marginTop="10dp"
+      android:background="@drawable/edittextstyle1"
+      android:textColorHint="#949494"
+      android:textColor="#FFFFFF"
+      />
+
+
+  <Button
+    android:id="@+id/clubCreate_clubCreate"
+    android:layout_below="@+id/editFieldsSignUp"
+    android:layout_marginTop="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="login"
+    android:text="@string/createclub_clubcreate"
+    android:background="@drawable/buttonstyle1"
+    android:textColor="#FFFFFF"/>
+
+
+</LinearLayout>

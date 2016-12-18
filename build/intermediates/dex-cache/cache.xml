@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/bolts-tasks-1.4.0_8cf527e2d6d451b7133847063bf48a88cc2b679e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.github.sundeepk/compact-calendar-view/1.8.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b06ac84f0148a6c418998d94de89199e29d9fd7f">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.github.sundeepk-compact-calendar-view-1.8.9_34f982bfed2fd65988d848927fa37bdaa0e528fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-1.0.3_95db2f8bcaa5a776b3781f347658d7ef6d2c99b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_ccb86bb5b69d3810e6e0d087b6fc59edd4176f75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_e990b0e271ab6c84c5586c3099e723f75f1590f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/firebase-client-android-2.5.2_881f3c79c37bb2612cefef311e98353f02efd37d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/internal_impl-25.0.0_cf75f547515975dd73cbe639aa4828c0dc9b86a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_c054ed1ba5384b3e963d6195cbe3890ee3bd96b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_9af012dbb775eeae814c291cf6901b3e31f8ed58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37e245cd01989dcaca6a48699d0152f0997fb246">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.4.4_62cd709078f79c3c085c136c95852a8ce54a4c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_dc1f5ea8b72d13164281a5a7436280c25af2ac59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/tubesock-0.0.12_51fe88a4eb444e5ad2c24c49cd74b770442aed7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.13.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e25d39642cf82ff86e13390e7854ef135df232ea">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.twitter.sdk.android-twitter-1.13.1_3fdf7a8984c6890c2813620a235f8f4d21627da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/incremental-classes/facebook/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="97b1d32e923faaaa4528c92b95bbb9164afba8c6">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/instant-run-bootstrap_295d072cdff712b716d0de92c047385a53054120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_2b1c8de53199eb1325bf0d809006b71cd9a71f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.10_2d62e3840be26b9bace1467f6c0dfa481f63c92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_e4237f3fe56952aaf3f76b8206e9268014bddad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-design-25.0.0_b558e790f3ffac06bb610675e9c605eb390c4589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/internal_impl-23.0.0_ad6d3654f9652204ce2181b6d4014353fb19612f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_6d9f43de6fce571764a0101e3c8513c3ce211765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_97a5f432843ebc2a4fc6fbf4d87ae90c533df594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-compat-25.0.0_e8f22d39e5827ee8f409fa3ef78b738dd82bfe1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_7341d2c90a419af185cf63d4bf93141445c117b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/internal_impl-25.0.0_ce3c0c3d539bc9bde69d1c314af49ce24d900ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_87fe930f148e2df31a04b072306f0f43d349dfc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_71565c144fe99006133643438d1d09919042bc4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_65453f1234cab99b9752b02731aeeb48b88da11d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-transition-25.0.0_6a5a6cdc6b55b8920b3314604228818732f1bcb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_c6924e19af8faec1e8ef2f1558a6c372cad08feb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_4a9f5108d21d227fb2a833504806f56cfe11662e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/jackson-databind-2.2.2_b8adda61a49c0ce851a465ed29768e066f8c03f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_d19fb7a3673f173c8cd3029b7971b874921453ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ce6e296ebf7c44e781abf6d7dd21d40133df919e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/bolts-applinks-1.4.0_9cad5c4c84bd38a66591f8df0bca2b7374d56794/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee07783aa59eefdeacc107abf472f45f60272302">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.github.siyamed-android-shape-imageview-0.9.3_8c08a9484343c60d8b2403b9ddd2887891c38a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/jackson-annotations-2.2.2_b49a0ca96a6e0824ebe7870cba3085897c30c402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_da7b9e1dd2b9a5643e0026d2930679814727e2d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_86105b483b41bb9e2ad603c70f02cc73cc0ac1a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="acb0b23366d6d35b86d6564fcabf3a2ef439f9af">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.4_4e4d37f9ab657c052cfb226edaa86761cd4b1d51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_978813886773975c511c212f94807332e4b66221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_6840e21666f743d4bad18e8ebff08ce1495edfa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/firebase-client-jvm-2.5.2_eece63bab60ea4788d8233e0d79faafe87d7cee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_43101ee71b0e672e6af184c879589933d4c00433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/incremental-runtime-classes/facebook/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="31a75c036bae2e3488d671791e8dfba57cc9bd7b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/instant-run_eccb41ec394215c6f324c11b0932fbb1eb965fef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b81327f3afb5c0c84ee6f50df6f750737a44653">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.digits.sdk.android-digits-1.10.3_c8947c3670ae3031b0e0315913728b87a0287f90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_7e4985843f96d02908199a19a73a27276c8eda0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_18f094e58a9177ed7f451d3a804bd1d774b139a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_9a1aecaa0c5db88b6ec278d710d5f058f18177c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_2d70b886437eb8b3defab10f9dd02bf20e0d8a06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_659bd9848b2400b3acee1c32dc4ba57f669c3310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_da05391c205b4d45e8112c85d7123ae78c56c388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/twitter-text-1.13.0_7e695c959b319d43a8e0a8fe29fbf8af039c2aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/jackson-core-2.2.2_5e875cc87d5d040ef5afdbb9c9a5aea78ac26f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/gson-2.3_d531eaf55fd2baaf0f5d5cecfb2ebdc69604ec71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_aeeec99daba7cb1a0cdeee5976a484036085cfdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_74ad5fa8b286c35c72f88abf105bbee93f347b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/internal_impl-25.0.0_85bd41fbbaf98a37e0850d32541b449a1a6efda9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_48fb5e8687412dbce11d20f3eb591e78dbeeb667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6410576864efb5ed0ec9f10c8e091909959ae27c">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.firebaseui-firebase-ui-0.4.4_1f82e07a97c11b17064ba3ed7b1a131a19e083b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_a8aa8a5523f730c9948c915b63552008883c897f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_46fb0d883b8a767ba8625bc97ff2bc444d075cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_121d2823918d701634d9d0d3dd3af0be1bd05471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_2770d3bbca33670c30868c782c241a01d45605c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_448008689aefbb8e5e78c60f1a46ce2d7f2b9e77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_8299734b68eafb84acfe50fec417a64bfcac1414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_9c68539f401854967e10e1ea66da16fe3d545d41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_30b7229a11b3a132385e1450aea401ca0072ea6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_bccc00a79b2c773633d7bbfd6ec1bba9f9c342ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/retrofit-1.8.0_944a573fa68b24fa526609205ddf23be03372b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/internal_impl-25.0.0_e76c02ad32006fc13183133ab9ccd1cdeea0d65e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_2dc02f2045f15fbe60aa062533ef54764cc49f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_01800d25e5d208e8a7d3132b9ca8d1ba4245d8b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_78417d6037e039d0815247f96597af0300a50080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/support-annotations-25.0.0_d66029de9557d0026a808b5ad303c61111313781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.18.0_c1554067a77c7fa63bbf0123219113e8098a180a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_9a667dcaf2b2b48cbd5d642000386c50d4660c7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_57bb3e0a66b94b5aa8fef19085e17f5c31b74128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/picasso-2.5.2_8f90010f64efac832cfac7985f50edd300f2a090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_680f68caa3bde3f42d88eebdcc83d07b42467b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_c75b793c3811d070fc1d0edd9e7d44f8903c6f7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_76d2f18db3e5ca30c10c9ad2761f768e5978ac3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_92956a083629090ae2f26f54d7b451460f7f7457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-multidex-1.0.0_44081ae3479e0875daef76ee458e1fe300a3afd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-customtabs-25.0.0_f6866fb3a06e8c3b1f603989b85072a4f55595f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_97eb4cf00c100e86346d7316a3402738861e10ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_0bb384ff9f38f5974564e461d04eb2deba1bdb7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.bartoszlipinski/recyclerviewheader2/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3324ea9b0bf0491c7d2304ffba1322d9c11ef017">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.bartoszlipinski-recyclerviewheader2-2.0.1_c458ed2ed60de966dbbb8d9af66a00f4adde2d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_d7ccb11ac2d7aff11cb4f38d6e9b675c124e6374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_b622825c4f80f44d0c0abee1e8add280193d299c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_ac7c41b9428d2ba792d8f431905a9843b2a41eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_f1ae0d129d9fb76de9ba0dcfa2605bfe715398ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_3cccfbe0c207c3c9dce99b3e290e5b1f002160f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_1219d8fb71f3e6f9a11051a23b88607c16adf6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.android.support-support-v4-25.0.0_341812cce25c1eec63ee15315fd54f972145247a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/internal_impl-25.0.0_7bd2bbf620f9e09f19b0c5aabccbce6b0bb0af6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_3d70e770fd1cb1c4d3cefdac47f1c98951d2b982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1360908bc3e1751f5e2248e64aedbe4b5944b702">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-1.6.6_b9fc72cb6582f022e1e752f71e87b2bf14df61a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d903060c54d0109fc4efa404a62fac2158d6633">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-1.10.1_48a9d1a90a69207f640d979789db055adced271d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/stefan/Documents/final-project-stefan-lin/app/build/intermediates/transforms/dex/facebook/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_e1fa084804c5178b04407fb50bab3a7e9c76d436/classes.dex" />
+    </item>
+
+</items>

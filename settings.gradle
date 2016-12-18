@@ -1,0 +1,2 @@
+include ':app', ':RippleEffect'
+project(':RippleEffect').projectDir = new File('libs/RippleEffect')

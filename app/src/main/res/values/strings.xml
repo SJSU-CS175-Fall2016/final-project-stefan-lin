@@ -1,0 +1,61 @@
+<resources>
+  <!-- ////////// Login Credentials ////////// -->
+  <!-- Pleaes stick this section at the top -->
+
+  <!-- Facebook app id/token -->
+  <string name="facebook_app_id">317089385298301</string>
+
+  <!-- Twitter -->
+  <string name="twitter_consumer_key">1jJ95xjrslAw6QBbqGleUu3Ua</string>
+  <string name="twitter_consumer_secret">AxHtpnELrJrDzNynFQeCF2L9ZPnI8SO2IaZgEmxgd1qyyjCLYI</string>
+
+  <!-- ////////// Login Credentials ////////// -->
+  <string name="app_name">Club Soda</string>
+  <string name="username_text">Username</string>
+  <string name="password_text">Password</string>
+  <string name="username_text_signup">Email Address</string>
+  <string name="firstname_text_signup">First Name</string>
+  <string name="lastname_text_signup">Last Name</string>
+  <string name="confirm_password_text">Confirm Password</string>
+  <string name="login_text">Login</string>
+
+  <!-- Drawer -->
+  <string-array name="drawer_items">
+    <item>Announcements</item>
+    <item>Finance</item>
+    <item>Events</item>
+    <item>Members</item>
+    <item>Settings</item>
+  </string-array>
+
+  <!-- Menu -->
+  <string name="announcements_menu">Announcements</string>
+  <string name="finance_menu">Finance</string>
+  <string name="events_menu">Events</string>
+  <string name="members_menu">Members</string>
+  <string name="settings_menu">Settings</string>
+  <string name="logout_menu">Logout</string>
+  <string name="clubmng_menu">Club Management</string>
+
+  <!-- Create Club -->
+  <string name="clubname_clubcreate">Unique Club Name</string>
+  <string name="clubschool_clubcreate">University</string>
+  <string name="createclub_clubcreate">CREATE</string>
+
+
+  <!-- Club Management -->
+  <string name="adduser_clubmng">User\'s Email Address</string>
+  <string name="description_clubmng">Add User To Club</string>
+  <string name="add_clubmng">ADD</string>
+  <string name="addadmin_clubmng">User\'s Email Address</string>
+  <string name="description2_clubmng">Grant Administrator Permissions</string>
+
+  <!-- No club fragment -->
+  <string name="button_noclub">CREATE A CLUB</string>
+  <string name="button2_noclub">SIGN OUT</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="title_activity_test">TestActivity</string>
+  <string name="title_activity_profile_pic">ProfilePicActivity</string>
+
+</resources>

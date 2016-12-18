@@ -1,0 +1,55 @@
+<resources>
+
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/Cyan</item>
+    <item name="colorPrimaryDark">@color/CyanDark</item>
+    <item name="colorAccent">@color/Cyan</item>
+
+    <item name="android:textColorHighlight">@color/CyanLight</item>
+  </style>
+
+  <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light">
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">true</item>
+    <item name="android:colorPrimary">@color/mainBG</item>
+    <item name="android:colorPrimaryDark">@color/mainBG</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+  </style>
+
+
+  <!-- General -->
+  <style name="ClubTheme" parent="Theme.AppCompat.NoActionBar">
+    <item name="android:colorPrimary">@color/Cyan</item>
+    <item name="android:colorPrimaryDark">@color/CyanDark</item>
+    <item name="android:colorAccent">@color/CyanLight</item>
+    <item name="android:statusBarColor">@color/CyanDark</item>
+    <item name="colorAccent">@color/midGray</item>
+    <item name="android:textColorHighlight">@color/CyanLight</item>
+  </style>
+
+
+  <style name="ClubActionBar" parent="@style/Theme.AppCompat">
+    <item name="android:actionBarStyle">@style/ClubActionBar.ActionBarStyle</item>
+  </style>
+
+  <style name="ClubActionBar.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:titleTextStyle">@style/ClubActionBar.ActionBar.TitleTextStyle</item>
+    <item name="android:background">#282828</item>
+  </style>
+
+  <style name="ClubActionBar.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+    <item name="android:textColor">#fff</item>
+  </style>
+
+  <style name="AppTheme.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+  </style>
+
+  <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+  <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
+
+

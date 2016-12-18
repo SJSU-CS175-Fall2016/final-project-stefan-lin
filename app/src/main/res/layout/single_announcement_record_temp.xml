@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.andexert.library.RippleView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  android:id="@+id/card_ripple"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:elevation="3dp"
+  android:layout_marginTop="6dp"
+  rv_centered="true">
+  <android.support.v7.widget.CardView
+    android:id="@+id/card_view"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C7C0">
+    <LinearLayout
+      android:id="@+id/card_middle"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+      <TextView
+        android:transitionName="tranTitle"
+        android:id="@+id/card_title"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:textSize="30dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:gravity="center"
+        android:background="#0099ff"
+        android:textColor="#ffffff"/>
+      <!-- android:textColor="@android:color/white" -->
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+          android:transitionName="tranName"
+          android:id="@+id/card_author"
+          android:layout_width="0dp"
+          android:layout_height="match_parent"
+          android:layout_weight="1"
+          android:textSize="15dp"
+          android:textStyle="italic"
+          android:textAlignment="center"
+          android:layout_margin="4dp"/>
+        <TextView
+          android:transitionName="tranTime"
+          android:id="@+id/card_time"
+          android:layout_width="0dp"
+          android:layout_height="match_parent"
+          android:layout_weight="1"
+          android:textSize="15dp"
+          android:textStyle="italic"
+          android:textAlignment="center"
+          android:layout_margin="4dp"
+          android:ellipsize="end"
+          android:maxLines="1"/>
+      </LinearLayout>
+
+      <TextView
+        android:transitionName="tranContent"
+        android:padding="4dp"
+        android:textSize="12dp"
+        android:textStyle="normal"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/card_content" />
+    </LinearLayout>
+
+  </android.support.v7.widget.CardView>
+</com.andexert.library.RippleView>
+
+  <!--
+  title>>> android:text="Sunday Night Party @ Google Campus"
+  time>>>  android:text="12:00"
+  author>>> android:text="T. Jones"
+  content>>>       android:text="Please join us for an evening of merriment, cocktails and dinner on Saturday, December 15th at 7:00 p.m. The Johnson Residence 75 West Kings Place Regrets by December 5th (666) 555-1234 Pat and Tim Johnson"/>
+
+  -->

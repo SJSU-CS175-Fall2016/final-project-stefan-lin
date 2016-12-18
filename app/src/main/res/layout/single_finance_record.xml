@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_marginTop="5dp"
+              android:layout_marginBottom="10dp"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"
+              android:paddingTop="2dp"
+              android:paddingBottom="5dp"
+              android:paddingRight="5dp"
+              android:elevation="3dp"
+              android:background="#fff">
+  <LinearLayout
+    android:layout_width="100dp"
+      android:layout_height="wrap_content"
+      android:gravity="center_vertical"
+      android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/financeDollarSign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="$"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:id="@+id/financeAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="5.00"
+        android:textSize="15dp"/>
+  </LinearLayout>
+i
+  <TextView
+      android:id="@+id/financeDescription"
+      android:layout_width="fill_parent"
+      android:layout_gravity="center_vertical"
+      android:text="By Jeremy Aftem on 7/19/2016\nThis is example description of finance text. More and more text will be here. This is filler text."
+      android:layout_height="wrap_content"/>
+</LinearLayout>

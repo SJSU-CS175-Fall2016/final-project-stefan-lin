@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <item
+   android:id="@+id/empty"
+   android:orderInCategory="101"
+   app:showAsAction="always"
+   android:icon="@drawable/ic_menu_white_36dp">
+   <menu>
+    <item
+     android:id="@+id/add_user_menu"
+     android:orderInCategory="96"
+     app:showAsAction="never"
+     android:title="Add User"
+     />
+     <item
+     android:id="@+id/settings_menu"
+     android:orderInCategory="97"
+     app:showAsAction="never"
+     android:title="Settings"
+     />
+     <item
+       android:id="@+id/logout_menu"
+       android:orderInCategory="98"
+       app:showAsAction="never"
+       android:title="@string/logout_menu"
+       />
+   </menu>
+  </item>
+</menu>

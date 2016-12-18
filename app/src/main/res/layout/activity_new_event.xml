@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/lightGray"
+    tools:context="com.stefan.jeremy.clubsoda.finances.NewFinancesRecordActivity">
+
+  <android.support.design.widget.AppBarLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <include
+      android:id="@+id/toolbar"
+      layout="@layout/tool_bar"
+      />
+    </android.support.design.widget.AppBarLayout>
+
+  <LinearLayout
+      android:gravity="center_horizontal"
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+  <Button
+      android:id="@+id/event_chooseTime"
+      android:layout_width="0dp"
+      android:layout_weight="5"
+      android:layout_height="wrap_content"
+      android:text="Choose Time"
+      android:background="#E0E0E0"
+      android:onClick="showTimePickerDialog"
+      android:textColor="#9E9E9E"
+      />
+    <Space
+        android:layout_width="2sp"
+        android:layout_height="wrap_content"/>
+    <Button
+      android:id="@+id/event_chooseDate"
+      android:layout_width="0dp"
+      android:layout_weight="5"
+      android:layout_height="wrap_content"
+      android:text="Choose Date"
+      android:textColor="#9E9E9E"
+      android:background="#E0E0E0"
+      android:onClick="showDatePickerDialog"
+      />
+  </LinearLayout>
+  <EditText
+      android:id="@+id/event_title"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Event Title"
+      android:padding="18dp"
+      android:textColorHint="#949494"
+      android:textColor="#363636"
+      />
+   <EditText
+      android:id="@+id/event_description"
+      android:padding="18dp"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:gravity="start"
+      android:lines="12"
+      android:hint="Description of event.\nLimited to 300 characters."
+      android:maxLength="300"
+      android:textColorHint="#949494"
+      android:textColor="#363636"
+      />
+<LinearLayout
+    android:id="@+id/event_buttons"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:layout_height="wrap_content">
+</LinearLayout>
+
+</LinearLayout>

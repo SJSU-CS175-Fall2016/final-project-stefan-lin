@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.stefan.jeremy.clubsoda">
+
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-feature
+      android:name="android.hardware.camera.any"
+      android:required="true" />
+  <uses-feature
+      android:name="android.hardware.camera.autofocus"
+      android:required="false" />
+  <application
+      android:name=".App"
+      android:allowBackup="true"
+      android:icon="@mipmap/ic_launcher"
+      android:label="@string/app_name"
+      android:supportsRtl="true"
+      android:theme="@style/AppTheme">
+
+    <!-- [START Facebook] -->
+    <activity
+        android:name="com.facebook.FacebookActivity"
+        android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Translucent.NoTitleBar"
+        tools:replace="android:theme"/>
+
+    <meta-data
+        android:name="com.facebook.sdk.ApplicationId"
+        android:value="@string/facebook_app_id"/>
+    <!-- [END Facebook] -->
+
+
+    <!-- [START Twitter Fabric] -->
+    <meta-data
+        android:name="io.fabric.ApiKey"
+        android:value="a21281b98798f2609671884573233864b2281da2"/>
+    <!-- [END Twitter Fabric] -->
+
+    <activity
+        android:name=".LoginActivity"
+        android:configChanges="orientation|keyboardHidden"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity
+        android:name=".ClubActivity"
+        android:configChanges="orientation|keyboardHidden"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+    </activity>
+    <activity
+        android:name=".createClub.CreateClubActivity"
+        android:configChanges="orientation|keyboardHidden"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+    </activity>
+    <activity
+        android:name=".clubManagement.ClubManagementActivity"
+        android:theme="@style/ClubActionBar">
+    </activity>
+    <activity
+        android:name=".finances.NewFinancesRecordActivity"
+        android:theme="@style/ClubTheme"/>
+    <activity android:name=".announcement.NewRecordActivity"
+        android:theme="@style/ClubTheme"/>
+    <activity android:name=".DetailActivity"/>
+    <activity
+        android:name=".events.NewEventActivity"
+        android:theme="@style/ClubTheme">
+    </activity>
+    <activity
+        android:name=".settings.SettingsActivity"
+        android:theme="@style/ClubTheme">
+    </activity>
+    <activity
+        android:name=".profilePic.ProfilePicActivity"
+        android:label="@string/title_activity_profile_pic"
+        android:theme="@style/ClubTheme">
+    </activity>
+  </application>
+
+</manifest>

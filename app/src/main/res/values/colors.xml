@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainBG">#282828</color>
+    <color name="lime_green">#08c365</color>
+    <color name="colorLight">#fff</color>
+    <color name="white">#fff</color>
+
+    <color name="lightGray">#FAFAFA</color>
+    <!-- Primary color -->
+    <color name="Cyan">#00bcd4</color>
+    <!-- Primary dark color -->
+    <color name="CyanDark">#00acc1</color>
+
+    <color name="CyanLight">#b2ebf2</color>
+
+    <color name="midGray">#BDBDBD</color>
+</resources>

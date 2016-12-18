@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical"
+  android:paddingBottom="@dimen/activity_vertical_margin"
+  android:paddingLeft="@dimen/activity_horizontal_margin"
+  android:paddingRight="@dimen/activity_horizontal_margin"
+  android:paddingTop="@dimen/activity_vertical_margin"
+  tools:context=".announcement.NewRecordActivity"
+  android:fitsSystemWindows="true">
+
+  <EditText
+    android:id="@+id/finances_dollars"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Amount in dollars"
+    android:inputType="numberDecimal|numberSigned"
+    android:layout_marginTop="20dp"
+    android:padding="18dp"
+    android:background="@drawable/edittextstyle2"
+    android:textColorHint="#949494"
+    android:textColor="#363636"
+    />
+  <EditText
+    android:id="@+id/finances_description"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="start"
+    android:lines="15"
+    android:hint="Description of transaction.\nLimited to 300 characters."
+    android:maxLength="300"
+    android:layout_marginTop="10dp"
+    android:padding="18dp"
+    android:background="@drawable/edittextstyle2"
+    android:textColorHint="#949494"
+    android:textColor="#363636"
+    />
+  <LinearLayout
+    android:id="@+id/finances_buttons"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:layout_height="wrap_content">
+    <android.support.design.widget.FloatingActionButton
+      android:id="@+id/finances_addButton"
+      android:layout_below="@+id/editFieldsSignUp"
+      android:layout_marginTop="8dp"
+      android:layout_width="150dp"
+      android:layout_height="wrap_content"
+      android:text="@string/add_clubmng"
+      android:background="@drawable/buttonstyle1"
+      android:textColor="#FFFFFF"/>
+    <Space
+      android:id="@+id/finances_button_spacer"
+      android:layout_width="30dp"
+      android:layout_height="match_parent"/>
+    <android.support.design.widget.FloatingActionButton
+      android:id="@+id/finances_removeButton"
+      android:layout_below="@+id/editFieldsSignUp"
+      android:layout_marginTop="8dp"
+      android:layout_width="150dp"
+      android:layout_height="wrap_content"
+      android:text="Remove"
+      android:background="@drawable/buttonstyle2"
+      android:textColor="#FFFFFF"/>
+  </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

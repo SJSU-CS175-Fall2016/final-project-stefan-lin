@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+              android:name="@+id/noClub"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+              android:background="@color/mainBG"
+              android:orientation="vertical"
+              android:paddingLeft="20dp"
+              android:paddingRight="20dp"
+             tools:context="com.stefan.jeremy.clubsoda.createClub.NoClubMembershipFragment">
+
+  <TextView
+      android:id="@+id/noClub_oops"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="#fff"
+      android:textSize="35sp"
+      android:layout_marginTop="10dp"
+      android:text="Oops!"/>
+
+  <TextView
+      android:id="@+id/noClub_description"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="19sp"
+      android:textColor="#fff"
+      android:layout_marginTop="10dp"
+      android:text="It looks like you are not a member of any club found on our record. To join a club, a club owner must add you to the club.\n\nIf you instead want to create a club, follow the button below."
+      />
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    >
+  <Button
+    android:id="@+id/noClub_create"
+    android:layout_marginTop="25dp"
+    android:layout_width="125dp"
+    android:layout_height="wrap_content"
+    android:text="@string/button_noclub"
+    android:background="@drawable/buttonstyle1"
+    android:textColor="#FFFFFF"/>
+  <Space
+      android:layout_width="20dp"
+      android:layout_height="10dp"/>
+
+    <Button
+    android:id="@+id/noClub_signOut"
+    android:layout_marginTop="25dp"
+    android:layout_width="125dp"
+    android:layout_height="wrap_content"
+    android:text="@string/button2_noclub"
+    android:background="@drawable/buttonstyle2"
+    android:textColor="#FFFFFF"/>
+</LinearLayout>
+
+</LinearLayout>

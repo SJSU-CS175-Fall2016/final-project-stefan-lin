@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/lightGray"
+
+    tools:context="com.stefan.jeremy.clubsoda.profilePic.ProfilePicActivity">
+
+
+  <android.support.design.widget.AppBarLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <include
+      android:id="@+id/toolbar"
+      layout="@layout/tool_bar"
+      />
+    </android.support.design.widget.AppBarLayout>
+
+ <LinearLayout
+     android:gravity="center_vertical"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical">
+  <de.hdodenhof.circleimageview.CircleImageView
+      android:id="@+id/profile_avatar"
+      android:layout_gravity="center_horizontal"
+      android:layout_width="50sp"
+      android:layout_height="50sp"
+      android:src="@drawable/ic_face_grey_500_48dp"/>
+
+  <TextView
+      android:id="@+id/profile_nametext"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textSize="24sp"
+      android:textColor="#212121"
+      android:layout_gravity="center_horizontal"
+      android:text="John Smith"/>
+
+   <TextView
+       android:id="@+id/profile_emailtext"
+       android:layout_gravity="center_horizontal"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:textSize="20sp"
+       android:textColor="#212121"
+       android:text="email@email.com"/>
+
+   <Space
+       android:layout_width="wrap_content"
+       android:layout_height="30sp"/>
+   <Button
+       android:id="@+id/profile_newpic_button"
+       android:layout_gravity="center_horizontal"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="UPLOAD NEW PROFILE PIC"/>
+   <Space
+       android:layout_width="match_parent"
+       android:layout_height="150sp"/>
+</LinearLayout>
+
+</LinearLayout>

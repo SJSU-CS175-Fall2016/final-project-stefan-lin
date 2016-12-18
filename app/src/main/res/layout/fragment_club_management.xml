@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/clubmanagement_fragment"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:paddingLeft="20dp"
+              android:paddingRight="20dp"
+              android:focusableInTouchMode="true"
+              android:focusable="true"
+             tools:context="com.stefan.jeremy.clubsoda.clubManagement.ClubManagementFragment">
+
+
+  <TextView
+      android:id="@+id/clubMng_description"
+      android:textSize="20sp"
+      android:textColor="#282828"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="20dp"
+      android:text="@string/description_clubmng"/>
+  <EditText
+      android:id="@+id/clubMng_addUser"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="@string/adduser_clubmng"
+      android:layout_marginTop="20dp"
+      android:padding="18dp"
+      android:background="@drawable/edittextstyle2"
+      android:textColorHint="#949494"
+      android:textColor="#363636"
+      />
+
+  <Button
+    android:id="@+id/clubMng_addButton"
+    android:layout_below="@+id/editFieldsSignUp"
+    android:layout_marginTop="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/add_clubmng"
+    android:background="@drawable/buttonstyle1"
+    android:textColor="#FFFFFF"/>
+
+
+   <TextView
+      android:id="@+id/clubMng_description2"
+      android:textSize="20sp"
+      android:textColor="#282828"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="40dp"
+      android:text="@string/description2_clubmng"/>
+  <EditText
+      android:id="@+id/clubMng_addAdmin"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="@string/addadmin_clubmng"
+      android:layout_marginTop="20dp"
+      android:padding="18dp"
+      android:background="@drawable/edittextstyle2"
+      android:textColorHint="#949494"
+      android:textColor="#363636"
+      />
+
+  <Button
+    android:id="@+id/clubMng_addButton2"
+    android:layout_below="@+id/editFieldsSignUp"
+    android:layout_marginTop="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/add_clubmng"
+    android:background="@drawable/buttonstyle1"
+    android:textColor="#FFFFFF"/>
+
+
+
+
+
+
+</LinearLayout>
